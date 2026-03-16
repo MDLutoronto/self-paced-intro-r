@@ -1,8 +1,11 @@
 ---
 title: "Self-Paced Online Course: R - An Introduction"
 layout: "home"
-description: ""
+description: "This page provides access to a self-paced online Quercus course that focuses on how to use R for exploring and manipulating data."
 permalink: "/"  #! Remove this if not the homepage
+staff:
+ - name: Nadia Muhe
+   link: https://library.utoronto.ca/staff/nadia-muhe
 ---
 
 # Self-Paced Online Course: R - An Introduction
@@ -17,4 +20,6 @@ Self\-enroll in this course with your UTORID. If you don't have one, [contact us
 
 [**COURSE LINK**](https://q.utoronto.ca/enroll/ET679B)
 
-Technique: [Data Visualization](/technique/data-visualization), [Cleaning data](/technique/cleaning-data), [Extracting data](/technique/extracting-data) \| Tools: [R](/tools/r-0)**Date Created:** 2025\-01\-24**Updated:** 2025\-02\-10
+Technique: [Data Visualization](/technique/data-visualization), [Cleaning data](/technique/cleaning-data), [Extracting data](/technique/extracting-data) \| Tools: [R](/tools/r-0)
+
+**Date Created:** 2025\-01\-24 **Updated:** 2025\-02\-10
