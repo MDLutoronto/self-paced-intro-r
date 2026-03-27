@@ -6,6 +6,9 @@ permalink: "/"  #! Remove this if not the homepage
 staff:
  - name: Nadia Muhe
    link: https://library.utoronto.ca/staff/nadia-muhe
+maintainer:
+ - name: Nadia Muhe
+   link: https://library.utoronto.ca/staff/nadia-muhe
 ---
 
 # Self-Paced Online Course: R - An Introduction
