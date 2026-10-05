@@ -15,9 +15,9 @@ This page provides access to a self-paced online Quercus course that focuses on 
 
 **Course Description:**
 
-This course gives users a thorough introduction to the statistical programming language R in RStudio. It consists of videos, activity and quizzes. The topics covered include data types and data structures, exploring data, graphs, new variables, managing data, tidyverse and R Markdown. This course is suitable for users who are new to R or those who want to review their R skills. For users interested in specific topics, videos can also be watched [here](https://mdl.library.utoronto.ca/technology/tutorials/introduction-r-course).
+This course gives users a thorough introduction to the statistical programming language R in RStudio. It consists of videos, activity and quizzes. The topics covered include data types and data structures, exploring data, graphs, new variables, managing data, tidyverse and R Markdown. This course is suitable for users who are new to R or those who want to review their R skills. For users interested in specific topics, videos can also be watched [here](https://mdlutoronto.github.io/r-course-intro/).
 
-Self-enroll in this course with your UTORID. If you don't have one, [contact us](https://mdl.library.utoronto.ca/about/contact-form).
+Self-enroll in this course with your UTORID. If you don't have one, [contact us](https://library.utoronto.ca/contact-us/data-maps).
 
 [**COURSE LINK**](https://q.utoronto.ca/enroll/ET679B)
 
